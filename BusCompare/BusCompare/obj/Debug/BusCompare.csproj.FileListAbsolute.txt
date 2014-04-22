@@ -1,0 +1,5 @@
+C:\Users\MYOFFICE\Documents\GitHub\BusCompare\BusCompare\BusCompare\bin\BusCompare.dll
+C:\Users\MYOFFICE\Documents\GitHub\BusCompare\BusCompare\BusCompare\bin\BusCompare.pdb
+C:\Users\MYOFFICE\Documents\GitHub\BusCompare\BusCompare\BusCompare\obj\Debug\BusCompare.csprojResolveAssemblyReference.cache
+C:\Users\MYOFFICE\Documents\GitHub\BusCompare\BusCompare\BusCompare\obj\Debug\BusCompare.dll
+C:\Users\MYOFFICE\Documents\GitHub\BusCompare\BusCompare\BusCompare\obj\Debug\BusCompare.pdb

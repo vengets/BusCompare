@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusCompare", "BusCompare\BusCompare.csproj", "{01C786A8-B7E0-47A6-9651-5751214CC242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataServices", "DataServices\DataServices.csproj", "{15419D99-4788-44BC-AF93-B4CF7E8A547E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01C786A8-B7E0-47A6-9651-5751214CC242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C786A8-B7E0-47A6-9651-5751214CC242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C786A8-B7E0-47A6-9651-5751214CC242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C786A8-B7E0-47A6-9651-5751214CC242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15419D99-4788-44BC-AF93-B4CF7E8A547E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15419D99-4788-44BC-AF93-B4CF7E8A547E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15419D99-4788-44BC-AF93-B4CF7E8A547E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15419D99-4788-44BC-AF93-B4CF7E8A547E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
